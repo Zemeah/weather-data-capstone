@@ -17,3 +17,5 @@ Completed:
 - Data extraction
 - Data cleaning and transformation
 - CSV export
+- SQLite
+- SQL queries

@@ -13,6 +13,14 @@ https://www.timeanddate.com/weather/
 ## Current Progress
 
 Completed:
+- Web scraping weather data with Selenium
+- Extracting city, local time, and temperature data
+- Cleaning and transforming data with Pandas
+- Removing duplicate and missing records
+- Converting temperature values to numeric format
+- Exporting cleaned data to CSV
+- Importing cleaned data into a SQLite database
+- Running SQL queries against the databaseCompleted:
 - Web scraping with Selenium
 - Data extraction
 - Data cleaning and transformation
